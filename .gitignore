@@ -1,0 +1,6 @@
+images/*
+output/*
+node_modules
+output.mkv
+output.mp4
+output.webm
